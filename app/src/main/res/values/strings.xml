@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">吃饭宝</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="order_all">全部</string>
+    <string name="order_paixu">排序</string>
+    <string name="order_favorable">优惠</string>
+
+    <string name="test_price">¥15.00</string>
+</resources>
